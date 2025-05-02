@@ -4,7 +4,7 @@ La selva amazónica es la selva más grande y biodiversa del mundo, así que es 
 
 Desafortunadamente, la deforestación ha causado un impacto profundo en áreas de conservación. Esto está directamente conectado a daños que aceleran el cambio climático.
 
-Aprende cómo usar el _Image Processing Toolbox_ para analizar y cuantificar la deforestación en la selva amazónica. Puedes usar como referencia el video del canal de YouTube MATLAB en Español [Introducción al procesamiento de imágenes para análisis de cambio climático con MATLAB] (https://youtu.be/ZZ-XPZcCvCQ)
+Aprende cómo usar el _Image Processing Toolbox_ para analizar y cuantificar la deforestación en la selva amazónica. Puedes usar como referencia el video del canal de YouTube MATLAB en Español [Introducción al procesamiento de imágenes para análisis de cambio climático con MATLAB](https://youtu.be/ZZ-XPZcCvCQ)
 
 El Live Script deforestacion.mlx procesa múltiples imágenes satelitales del Bosque Nacional Jamanxim tomadas cada 4 años desde 2000 hasta 2016.
 
