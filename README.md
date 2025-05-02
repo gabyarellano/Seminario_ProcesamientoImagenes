@@ -1,5 +1,6 @@
 # Seminario: Procesamiento de Imágenes Hecho Fácil con MATLAB
 
+Accede a los materiales aquí [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=gabyarellano/Seminario_ProcesamientoImagenes&file=deforestacion.mlx)
 La selva amazónica es la selva más grande y biodiversa del mundo, así que es muy importante protegerla.
 
 Desafortunadamente, la deforestación ha causado un impacto profundo en áreas de conservación. Esto está directamente conectado a daños que aceleran el cambio climático.
